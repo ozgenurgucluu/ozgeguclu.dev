@@ -5,18 +5,12 @@ const Placeholder = ({ width = 70, height=60 }) => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
-      xmlnsXodm="http://www.corel.com/coreldraw/odm/2003"
+     
       xmlSpace="preserve"
       width={width}
       height={height}
       version="1.1"
-      style={{
-        shapeRendering: "geometricPrecision",
-        textRendering: "geometricPrecision",
-        imageRendering: "optimizeQuality",
-        fillRule: "evenodd",
-        clipRule: "evenodd",
-      }}
+      
       viewBox="0 0 1706.66 1706.66"
     >
       <defs>

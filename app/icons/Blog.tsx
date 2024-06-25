@@ -9,13 +9,7 @@ const Blog = ({ width = 120 ,height=60}) => {
       width={width}
       height={height}
       version="1.1"
-      style={{
-        shapeRendering: "geometricPrecision",
-        textRendering: "geometricPrecision",
-        imageRendering: "optimizeQuality",
-        fillRule: "evenodd",
-        clipRule: "evenodd",
-      }}
+    
       viewBox="0 0 1707 1707"
     >
       <g id="Layer_x0020_1">

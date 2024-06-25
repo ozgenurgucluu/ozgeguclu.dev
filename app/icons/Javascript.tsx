@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Javascript: React.FC = ({width=36}) => {
+const Javascript: React.FC<{width?:number}> = ({width=36}) => {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" width={width} xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256" version="1.1" preserveAspectRatio="xMidYMid">
       <g>

@@ -12,7 +12,7 @@ import BootstrapIcon from '@/app/icons/BootstrapIcon'
 const Technologies = () => {
   return (
   
-      <Section title="Technologies " > <div className='sm:flex sm:justify-center items-center gap-3  grid grid-cols-5 sm:gap-6 justify-center items-center '> <Html/><Css/><Javascript/> <Github width={46} height={36}/><Git/><ReactIcon/><Tailwind/><BootstrapIcon/></div></Section>
+      <Section title="Technologies " > <div className='sm:flex sm:justify-center  gap-3  grid grid-cols-5 sm:gap-6 justify-center items-center '> <Html/><Css/><Javascript/> <Github width={46} height={36}/><Git/><ReactIcon/><Tailwind/><BootstrapIcon/></div></Section>
  
   )
 }
